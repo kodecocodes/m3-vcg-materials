@@ -1,12 +1,10 @@
 # Introduction to Version Control: Materials
 
-This repo contains all the downloadable materials and projects associated with the **Introduction to Version Control** module in: 
-- **[Foundational Tools in Android Course](https://www.kodeco.com/android/paths/foundational-tools-android)**
+This repo contains all the downloadable materials and projects associated with the **Introduction to Version Control** module.
   
-This course is part of [Beginning Android & Kotlin](https://www.kodeco.com/android/programs/beginning-android), which you can take as on-demand bootcamp from [Kodeco](https://www.kodeco.com).
-- **[Foundational Tools in iOS Course](https://www.kodeco.com/ios/programs/introduction-to-ios/foundational-tools-ios)**
-  
-This course is part of [Beginning iOS & Swift Program](https://www.kodeco.com/ios/programs/beginning-ios), which you can take as on-demand bootcamp from [Kodeco](https://www.kodeco.com).
+This module is part of 
+- [Beginning Android & Kotlin](https://www.kodeco.com/android/programs/beginning-android) Program, which you can take as on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
+- [Beginning iOS & Swift](https://www.kodeco.com/ios/programs/beginning-ios) Program, which you can take as on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
